@@ -1,0 +1,6 @@
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\bin\Debug\DataA.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\bin\Debug\DataA.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\obj\Debug\DataA.csproj.AssemblyReference.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\obj\Debug\DataA.csproj.CoreCompileInputs.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\obj\Debug\DataA.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\DataA\obj\Debug\DataA.pdb

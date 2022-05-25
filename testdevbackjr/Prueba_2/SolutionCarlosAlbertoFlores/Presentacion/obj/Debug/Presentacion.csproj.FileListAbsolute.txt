@@ -1,0 +1,15 @@
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\Domai.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\DataA.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\Domai.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\bin\Debug\DataA.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete

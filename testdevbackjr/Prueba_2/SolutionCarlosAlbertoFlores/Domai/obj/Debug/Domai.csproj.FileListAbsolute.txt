@@ -1,0 +1,9 @@
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\bin\Debug\Domai.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\bin\Debug\Domai.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\bin\Debug\DataA.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\bin\Debug\DataA.pdb
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\obj\Debug\Domai.csproj.AssemblyReference.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\obj\Debug\Domai.csproj.CoreCompileInputs.cache
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\obj\Debug\Domai.csproj.CopyComplete
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\obj\Debug\Domai.dll
+C:\Users\ALBERTO FLORES\source\repos\SolutionCarlosAlbertoFlores\Domai\obj\Debug\Domai.pdb
